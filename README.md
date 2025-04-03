@@ -30,7 +30,7 @@
 def greet(name):
     print(f"안녕하세요, {name}님!")
 
-greet("홍길동")
+greet("김세민")
 ```
 
 ### 링크와 이미지
